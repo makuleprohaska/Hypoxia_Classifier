@@ -1,4 +1,4 @@
-# Hypoxia_Classifier
+## Hypoxia_Classifier
 
 <h1><b>Introduction</b></h1>
 <p>Hypoxia, a state of reduced oxygen in the tumour environment, is known to promote cancer progression and resistance to treatment. Thus, it is imperative to be able to identify hypoxic cells and their genetic markers, to implement targeted treatments. The goal of this project is to identify patterns and biomarkers linked to hypoxic cells and build a classifier that can identify whether a cell is hypoxic or normal.</p>
